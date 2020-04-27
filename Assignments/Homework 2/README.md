@@ -3,7 +3,7 @@
 - Student ID: 1001778270
 - Name: Bo Lin
 
-## Homework 1
+## Homework 2
 
 - Python: 3.7.7
 - Numpy: 1.18.2
