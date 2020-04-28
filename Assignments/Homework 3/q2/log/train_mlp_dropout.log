@@ -1,0 +1,1312 @@
+Mon Apr 27 23:37:23 2020 - Start Loading Dataset...
+Files already downloaded and verified
+Files already downloaded and verified
+Mon Apr 27 23:37:25 2020 - Finish Loading Dataset
+Mon Apr 27 23:37:25 2020 - Start Creating Net, Criterion, Optimizer and Scheduler...
+Mon Apr 27 23:37:25 2020 - Finish Creating Net, Criterion, Optimizer and Scheduler
+Mon Apr 27 23:37:25 2020 - Start Training...
+Traing dataset: 50000, iteration: 1563
+Testing dataset: 10000, iteration: 313
+Epochs: 100, Batch Size: 32, LR:0.01
+
+Mon Apr 27 23:37:27 2020 - Epoch: 001, Batch: 0500, LR: 0.01, Speed: 8639.22879 sample/s
+Training Loss: 2.28190, Training Acc: 0.14056
+--------------------------------------------------
+Mon Apr 27 23:37:28 2020 - Epoch: 001, Batch: 1000, LR: 0.01, Speed: 9418.12965 sample/s
+Training Loss: 2.21726, Training Acc: 0.17194
+--------------------------------------------------
+Mon Apr 27 23:37:30 2020 - Epoch: 001, Batch: 1500, LR: 0.01, Speed: 9562.29755 sample/s
+Training Loss: 2.17037, Training Acc: 0.19225
+--------------------------------------------------
+Mon Apr 27 23:37:30 2020 - Start Testing...
+Mon Apr 27 23:37:31 2020 - Epoch: 001
+Testing Loss: 2.12880, Testing Acc: 0.20720
+--------------------------------------------------
+Mon Apr 27 23:37:33 2020 - Epoch: 002, Batch: 0500, LR: 0.01, Speed: 9359.67028 sample/s
+Training Loss: 2.13210, Training Acc: 0.21206
+--------------------------------------------------
+Mon Apr 27 23:37:35 2020 - Epoch: 002, Batch: 1000, LR: 0.01, Speed: 9524.61475 sample/s
+Training Loss: 2.10979, Training Acc: 0.22119
+--------------------------------------------------
+Mon Apr 27 23:37:36 2020 - Epoch: 002, Batch: 1500, LR: 0.01, Speed: 9548.46479 sample/s
+Training Loss: 2.09135, Training Acc: 0.23437
+--------------------------------------------------
+Mon Apr 27 23:37:37 2020 - Start Testing...
+Mon Apr 27 23:37:38 2020 - Epoch: 002
+Testing Loss: 2.06094, Testing Acc: 0.26420
+--------------------------------------------------
+Mon Apr 27 23:37:39 2020 - Epoch: 003, Batch: 0500, LR: 0.01, Speed: 9300.47544 sample/s
+Training Loss: 2.06868, Training Acc: 0.24119
+--------------------------------------------------
+Mon Apr 27 23:37:41 2020 - Epoch: 003, Batch: 1000, LR: 0.01, Speed: 9528.64755 sample/s
+Training Loss: 2.05921, Training Acc: 0.25175
+--------------------------------------------------
+Mon Apr 27 23:37:43 2020 - Epoch: 003, Batch: 1500, LR: 0.01, Speed: 9536.26942 sample/s
+Training Loss: 2.04589, Training Acc: 0.26131
+--------------------------------------------------
+Mon Apr 27 23:37:43 2020 - Start Testing...
+Mon Apr 27 23:37:44 2020 - Epoch: 003
+Testing Loss: 2.02065, Testing Acc: 0.27460
+--------------------------------------------------
+Mon Apr 27 23:37:46 2020 - Epoch: 004, Batch: 0500, LR: 0.01, Speed: 9301.59566 sample/s
+Training Loss: 2.04395, Training Acc: 0.26512
+--------------------------------------------------
+Mon Apr 27 23:37:47 2020 - Epoch: 004, Batch: 1000, LR: 0.01, Speed: 9527.35431 sample/s
+Training Loss: 2.02143, Training Acc: 0.27450
+--------------------------------------------------
+Mon Apr 27 23:37:49 2020 - Epoch: 004, Batch: 1500, LR: 0.01, Speed: 9595.24345 sample/s
+Training Loss: 2.00816, Training Acc: 0.27625
+--------------------------------------------------
+Mon Apr 27 23:37:49 2020 - Start Testing...
+Mon Apr 27 23:37:50 2020 - Epoch: 004
+Testing Loss: 1.97704, Testing Acc: 0.30110
+--------------------------------------------------
+Mon Apr 27 23:37:52 2020 - Epoch: 005, Batch: 0500, LR: 0.01, Speed: 9312.27123 sample/s
+Training Loss: 1.99829, Training Acc: 0.28231
+--------------------------------------------------
+Mon Apr 27 23:37:54 2020 - Epoch: 005, Batch: 1000, LR: 0.01, Speed: 9561.46921 sample/s
+Training Loss: 1.98971, Training Acc: 0.28412
+--------------------------------------------------
+Mon Apr 27 23:37:55 2020 - Epoch: 005, Batch: 1500, LR: 0.01, Speed: 9587.26819 sample/s
+Training Loss: 1.99524, Training Acc: 0.27925
+--------------------------------------------------
+Mon Apr 27 23:37:56 2020 - Start Testing...
+Mon Apr 27 23:37:57 2020 - Epoch: 005
+Testing Loss: 1.94880, Testing Acc: 0.31260
+--------------------------------------------------
+Mon Apr 27 23:37:58 2020 - Epoch: 006, Batch: 0500, LR: 0.01, Speed: 9421.92857 sample/s
+Training Loss: 1.97263, Training Acc: 0.29281
+--------------------------------------------------
+Mon Apr 27 23:38:00 2020 - Epoch: 006, Batch: 1000, LR: 0.01, Speed: 9571.24954 sample/s
+Training Loss: 1.97710, Training Acc: 0.29275
+--------------------------------------------------
+Mon Apr 27 23:38:02 2020 - Epoch: 006, Batch: 1500, LR: 0.01, Speed: 9541.72824 sample/s
+Training Loss: 1.95730, Training Acc: 0.29600
+--------------------------------------------------
+Mon Apr 27 23:38:02 2020 - Start Testing...
+Mon Apr 27 23:38:03 2020 - Epoch: 006
+Testing Loss: 1.91059, Testing Acc: 0.32120
+--------------------------------------------------
+Mon Apr 27 23:38:05 2020 - Epoch: 007, Batch: 0500, LR: 0.01, Speed: 9340.13157 sample/s
+Training Loss: 1.94731, Training Acc: 0.29987
+--------------------------------------------------
+Mon Apr 27 23:38:06 2020 - Epoch: 007, Batch: 1000, LR: 0.01, Speed: 9553.58397 sample/s
+Training Loss: 1.94872, Training Acc: 0.29562
+--------------------------------------------------
+Mon Apr 27 23:38:08 2020 - Epoch: 007, Batch: 1500, LR: 0.01, Speed: 9582.22642 sample/s
+Training Loss: 1.94123, Training Acc: 0.30162
+--------------------------------------------------
+Mon Apr 27 23:38:08 2020 - Start Testing...
+Mon Apr 27 23:38:09 2020 - Epoch: 007
+Testing Loss: 1.88794, Testing Acc: 0.32690
+--------------------------------------------------
+Mon Apr 27 23:38:11 2020 - Epoch: 008, Batch: 0500, LR: 0.01, Speed: 9361.10513 sample/s
+Training Loss: 1.93248, Training Acc: 0.30594
+--------------------------------------------------
+Mon Apr 27 23:38:12 2020 - Epoch: 008, Batch: 1000, LR: 0.01, Speed: 9548.75554 sample/s
+Training Loss: 1.91861, Training Acc: 0.31531
+--------------------------------------------------
+Mon Apr 27 23:38:14 2020 - Epoch: 008, Batch: 1500, LR: 0.01, Speed: 9590.13024 sample/s
+Training Loss: 1.92161, Training Acc: 0.31494
+--------------------------------------------------
+Mon Apr 27 23:38:14 2020 - Start Testing...
+Mon Apr 27 23:38:15 2020 - Epoch: 008
+Testing Loss: 1.87771, Testing Acc: 0.33110
+--------------------------------------------------
+Mon Apr 27 23:38:17 2020 - Epoch: 009, Batch: 0500, LR: 0.01, Speed: 9355.37360 sample/s
+Training Loss: 1.91605, Training Acc: 0.31506
+--------------------------------------------------
+Mon Apr 27 23:38:19 2020 - Epoch: 009, Batch: 1000, LR: 0.01, Speed: 9328.37924 sample/s
+Training Loss: 1.91363, Training Acc: 0.31587
+--------------------------------------------------
+Mon Apr 27 23:38:20 2020 - Epoch: 009, Batch: 1500, LR: 0.01, Speed: 9486.82813 sample/s
+Training Loss: 1.90222, Training Acc: 0.31519
+--------------------------------------------------
+Mon Apr 27 23:38:21 2020 - Start Testing...
+Mon Apr 27 23:38:22 2020 - Epoch: 009
+Testing Loss: 1.84770, Testing Acc: 0.34810
+--------------------------------------------------
+Mon Apr 27 23:38:23 2020 - Epoch: 010, Batch: 0500, LR: 0.01, Speed: 9299.83875 sample/s
+Training Loss: 1.89307, Training Acc: 0.32119
+--------------------------------------------------
+Mon Apr 27 23:38:25 2020 - Epoch: 010, Batch: 1000, LR: 0.01, Speed: 9550.23808 sample/s
+Training Loss: 1.89748, Training Acc: 0.32344
+--------------------------------------------------
+Mon Apr 27 23:38:27 2020 - Epoch: 010, Batch: 1500, LR: 0.01, Speed: 9536.54180 sample/s
+Training Loss: 1.89344, Training Acc: 0.32237
+--------------------------------------------------
+Mon Apr 27 23:38:27 2020 - Start Testing...
+Mon Apr 27 23:38:28 2020 - Epoch: 010
+Testing Loss: 1.84114, Testing Acc: 0.34480
+--------------------------------------------------
+Mon Apr 27 23:38:30 2020 - Epoch: 011, Batch: 0500, LR: 0.01, Speed: 9226.73078 sample/s
+Training Loss: 1.88137, Training Acc: 0.32194
+--------------------------------------------------
+Mon Apr 27 23:38:31 2020 - Epoch: 011, Batch: 1000, LR: 0.01, Speed: 9236.57398 sample/s
+Training Loss: 1.88253, Training Acc: 0.33219
+--------------------------------------------------
+Mon Apr 27 23:38:33 2020 - Epoch: 011, Batch: 1500, LR: 0.01, Speed: 8949.27684 sample/s
+Training Loss: 1.88284, Training Acc: 0.32237
+--------------------------------------------------
+Mon Apr 27 23:38:33 2020 - Start Testing...
+Mon Apr 27 23:38:34 2020 - Epoch: 011
+Testing Loss: 1.82711, Testing Acc: 0.35460
+--------------------------------------------------
+Mon Apr 27 23:38:36 2020 - Epoch: 012, Batch: 0500, LR: 0.01, Speed: 9005.44496 sample/s
+Training Loss: 1.86614, Training Acc: 0.32919
+--------------------------------------------------
+Mon Apr 27 23:38:38 2020 - Epoch: 012, Batch: 1000, LR: 0.01, Speed: 9556.68316 sample/s
+Training Loss: 1.87103, Training Acc: 0.33087
+--------------------------------------------------
+Mon Apr 27 23:38:40 2020 - Epoch: 012, Batch: 1500, LR: 0.01, Speed: 9528.47167 sample/s
+Training Loss: 1.87162, Training Acc: 0.32944
+--------------------------------------------------
+Mon Apr 27 23:38:40 2020 - Start Testing...
+Mon Apr 27 23:38:41 2020 - Epoch: 012
+Testing Loss: 1.81976, Testing Acc: 0.35390
+--------------------------------------------------
+Mon Apr 27 23:38:42 2020 - Epoch: 013, Batch: 0500, LR: 0.01, Speed: 9344.03695 sample/s
+Training Loss: 1.86948, Training Acc: 0.33269
+--------------------------------------------------
+Mon Apr 27 23:38:44 2020 - Epoch: 013, Batch: 1000, LR: 0.01, Speed: 9342.14952 sample/s
+Training Loss: 1.86060, Training Acc: 0.33306
+--------------------------------------------------
+Mon Apr 27 23:38:46 2020 - Epoch: 013, Batch: 1500, LR: 0.01, Speed: 9609.34426 sample/s
+Training Loss: 1.84495, Training Acc: 0.33969
+--------------------------------------------------
+Mon Apr 27 23:38:46 2020 - Start Testing...
+Mon Apr 27 23:38:47 2020 - Epoch: 013
+Testing Loss: 1.80977, Testing Acc: 0.35520
+--------------------------------------------------
+Mon Apr 27 23:38:49 2020 - Epoch: 014, Batch: 0500, LR: 0.01, Speed: 9317.14151 sample/s
+Training Loss: 1.85108, Training Acc: 0.33287
+--------------------------------------------------
+Mon Apr 27 23:38:50 2020 - Epoch: 014, Batch: 1000, LR: 0.01, Speed: 9526.00462 sample/s
+Training Loss: 1.84930, Training Acc: 0.34019
+--------------------------------------------------
+Mon Apr 27 23:38:52 2020 - Epoch: 014, Batch: 1500, LR: 0.01, Speed: 9577.89662 sample/s
+Training Loss: 1.85139, Training Acc: 0.33819
+--------------------------------------------------
+Mon Apr 27 23:38:52 2020 - Start Testing...
+Mon Apr 27 23:38:53 2020 - Epoch: 014
+Testing Loss: 1.78789, Testing Acc: 0.36650
+--------------------------------------------------
+Mon Apr 27 23:38:55 2020 - Epoch: 015, Batch: 0500, LR: 0.01, Speed: 9256.17416 sample/s
+Training Loss: 1.83560, Training Acc: 0.34269
+--------------------------------------------------
+Mon Apr 27 23:38:57 2020 - Epoch: 015, Batch: 1000, LR: 0.01, Speed: 9548.68217 sample/s
+Training Loss: 1.85169, Training Acc: 0.33919
+--------------------------------------------------
+Mon Apr 27 23:38:58 2020 - Epoch: 015, Batch: 1500, LR: 0.01, Speed: 9610.96680 sample/s
+Training Loss: 1.83559, Training Acc: 0.34550
+--------------------------------------------------
+Mon Apr 27 23:38:59 2020 - Start Testing...
+Mon Apr 27 23:39:00 2020 - Epoch: 015
+Testing Loss: 1.77863, Testing Acc: 0.37130
+--------------------------------------------------
+Mon Apr 27 23:39:01 2020 - Epoch: 016, Batch: 0500, LR: 0.01, Speed: 9366.33252 sample/s
+Training Loss: 1.82813, Training Acc: 0.34981
+--------------------------------------------------
+Mon Apr 27 23:39:03 2020 - Epoch: 016, Batch: 1000, LR: 0.01, Speed: 9486.60283 sample/s
+Training Loss: 1.83298, Training Acc: 0.34644
+--------------------------------------------------
+Mon Apr 27 23:39:05 2020 - Epoch: 016, Batch: 1500, LR: 0.01, Speed: 9558.42954 sample/s
+Training Loss: 1.82631, Training Acc: 0.35094
+--------------------------------------------------
+Mon Apr 27 23:39:05 2020 - Start Testing...
+Mon Apr 27 23:39:06 2020 - Epoch: 016
+Testing Loss: 1.76192, Testing Acc: 0.37540
+--------------------------------------------------
+Mon Apr 27 23:39:08 2020 - Epoch: 017, Batch: 0500, LR: 0.01, Speed: 9304.75538 sample/s
+Training Loss: 1.83306, Training Acc: 0.34744
+--------------------------------------------------
+Mon Apr 27 23:39:09 2020 - Epoch: 017, Batch: 1000, LR: 0.01, Speed: 9593.70713 sample/s
+Training Loss: 1.82567, Training Acc: 0.34725
+--------------------------------------------------
+Mon Apr 27 23:39:11 2020 - Epoch: 017, Batch: 1500, LR: 0.01, Speed: 9597.85082 sample/s
+Training Loss: 1.81240, Training Acc: 0.35250
+--------------------------------------------------
+Mon Apr 27 23:39:11 2020 - Start Testing...
+Mon Apr 27 23:39:12 2020 - Epoch: 017
+Testing Loss: 1.75852, Testing Acc: 0.37690
+--------------------------------------------------
+Mon Apr 27 23:39:14 2020 - Epoch: 018, Batch: 0500, LR: 0.01, Speed: 9331.74793 sample/s
+Training Loss: 1.81428, Training Acc: 0.35756
+--------------------------------------------------
+Mon Apr 27 23:39:15 2020 - Epoch: 018, Batch: 1000, LR: 0.01, Speed: 9535.92252 sample/s
+Training Loss: 1.81354, Training Acc: 0.35137
+--------------------------------------------------
+Mon Apr 27 23:39:17 2020 - Epoch: 018, Batch: 1500, LR: 0.01, Speed: 9549.95268 sample/s
+Training Loss: 1.80896, Training Acc: 0.35737
+--------------------------------------------------
+Mon Apr 27 23:39:17 2020 - Start Testing...
+Mon Apr 27 23:39:18 2020 - Epoch: 018
+Testing Loss: 1.76068, Testing Acc: 0.37900
+--------------------------------------------------
+Mon Apr 27 23:39:20 2020 - Epoch: 019, Batch: 0500, LR: 0.01, Speed: 9135.60594 sample/s
+Training Loss: 1.80886, Training Acc: 0.35400
+--------------------------------------------------
+Mon Apr 27 23:39:22 2020 - Epoch: 019, Batch: 1000, LR: 0.01, Speed: 9562.94479 sample/s
+Training Loss: 1.81199, Training Acc: 0.35169
+--------------------------------------------------
+Mon Apr 27 23:39:23 2020 - Epoch: 019, Batch: 1500, LR: 0.01, Speed: 9608.03314 sample/s
+Training Loss: 1.79846, Training Acc: 0.35962
+--------------------------------------------------
+Mon Apr 27 23:39:24 2020 - Start Testing...
+Mon Apr 27 23:39:25 2020 - Epoch: 019
+Testing Loss: 1.74809, Testing Acc: 0.38170
+--------------------------------------------------
+Mon Apr 27 23:39:26 2020 - Epoch: 020, Batch: 0500, LR: 0.01, Speed: 9329.56067 sample/s
+Training Loss: 1.79678, Training Acc: 0.36131
+--------------------------------------------------
+Mon Apr 27 23:39:28 2020 - Epoch: 020, Batch: 1000, LR: 0.01, Speed: 9539.06042 sample/s
+Training Loss: 1.80133, Training Acc: 0.35837
+--------------------------------------------------
+Mon Apr 27 23:39:30 2020 - Epoch: 020, Batch: 1500, LR: 0.01, Speed: 9610.56215 sample/s
+Training Loss: 1.79126, Training Acc: 0.36062
+--------------------------------------------------
+Mon Apr 27 23:39:30 2020 - Start Testing...
+Mon Apr 27 23:39:31 2020 - Epoch: 020
+Testing Loss: 1.74345, Testing Acc: 0.38120
+--------------------------------------------------
+Mon Apr 27 23:39:33 2020 - Epoch: 021, Batch: 0500, LR: 0.01, Speed: 9382.18883 sample/s
+Training Loss: 1.79673, Training Acc: 0.35919
+--------------------------------------------------
+Mon Apr 27 23:39:34 2020 - Epoch: 021, Batch: 1000, LR: 0.01, Speed: 9568.87489 sample/s
+Training Loss: 1.78293, Training Acc: 0.36475
+--------------------------------------------------
+Mon Apr 27 23:39:36 2020 - Epoch: 021, Batch: 1500, LR: 0.01, Speed: 9592.26317 sample/s
+Training Loss: 1.78973, Training Acc: 0.36144
+--------------------------------------------------
+Mon Apr 27 23:39:36 2020 - Start Testing...
+Mon Apr 27 23:39:37 2020 - Epoch: 021
+Testing Loss: 1.73013, Testing Acc: 0.38670
+--------------------------------------------------
+Mon Apr 27 23:39:39 2020 - Epoch: 022, Batch: 0500, LR: 0.01, Speed: 9255.32269 sample/s
+Training Loss: 1.77580, Training Acc: 0.36362
+--------------------------------------------------
+Mon Apr 27 23:39:40 2020 - Epoch: 022, Batch: 1000, LR: 0.01, Speed: 9477.94360 sample/s
+Training Loss: 1.78993, Training Acc: 0.36006
+--------------------------------------------------
+Mon Apr 27 23:39:42 2020 - Epoch: 022, Batch: 1500, LR: 0.01, Speed: 9602.85546 sample/s
+Training Loss: 1.78591, Training Acc: 0.36544
+--------------------------------------------------
+Mon Apr 27 23:39:42 2020 - Start Testing...
+Mon Apr 27 23:39:43 2020 - Epoch: 022
+Testing Loss: 1.73925, Testing Acc: 0.38220
+--------------------------------------------------
+Mon Apr 27 23:39:45 2020 - Epoch: 023, Batch: 0500, LR: 0.01, Speed: 9132.93663 sample/s
+Training Loss: 1.76817, Training Acc: 0.36806
+--------------------------------------------------
+Mon Apr 27 23:39:47 2020 - Epoch: 023, Batch: 1000, LR: 0.01, Speed: 9531.07672 sample/s
+Training Loss: 1.77686, Training Acc: 0.36350
+--------------------------------------------------
+Mon Apr 27 23:39:48 2020 - Epoch: 023, Batch: 1500, LR: 0.01, Speed: 9575.99280 sample/s
+Training Loss: 1.78605, Training Acc: 0.36194
+--------------------------------------------------
+Mon Apr 27 23:39:49 2020 - Start Testing...
+Mon Apr 27 23:39:50 2020 - Epoch: 023
+Testing Loss: 1.71626, Testing Acc: 0.38850
+--------------------------------------------------
+Mon Apr 27 23:39:51 2020 - Epoch: 024, Batch: 0500, LR: 0.01, Speed: 9214.63684 sample/s
+Training Loss: 1.77436, Training Acc: 0.36719
+--------------------------------------------------
+Mon Apr 27 23:39:53 2020 - Epoch: 024, Batch: 1000, LR: 0.01, Speed: 9560.70366 sample/s
+Training Loss: 1.77103, Training Acc: 0.37275
+--------------------------------------------------
+Mon Apr 27 23:39:55 2020 - Epoch: 024, Batch: 1500, LR: 0.01, Speed: 9590.45094 sample/s
+Training Loss: 1.76605, Training Acc: 0.37112
+--------------------------------------------------
+Mon Apr 27 23:39:55 2020 - Start Testing...
+Mon Apr 27 23:39:56 2020 - Epoch: 024
+Testing Loss: 1.72303, Testing Acc: 0.39040
+--------------------------------------------------
+Mon Apr 27 23:39:58 2020 - Epoch: 025, Batch: 0500, LR: 0.01, Speed: 9326.67831 sample/s
+Training Loss: 1.76086, Training Acc: 0.37106
+--------------------------------------------------
+Mon Apr 27 23:39:59 2020 - Epoch: 025, Batch: 1000, LR: 0.01, Speed: 9514.91191 sample/s
+Training Loss: 1.76739, Training Acc: 0.36662
+--------------------------------------------------
+Mon Apr 27 23:40:01 2020 - Epoch: 025, Batch: 1500, LR: 0.01, Speed: 9493.59479 sample/s
+Training Loss: 1.77108, Training Acc: 0.36781
+--------------------------------------------------
+Mon Apr 27 23:40:01 2020 - Start Testing...
+Mon Apr 27 23:40:02 2020 - Epoch: 025
+Testing Loss: 1.71829, Testing Acc: 0.38900
+--------------------------------------------------
+Mon Apr 27 23:40:04 2020 - Epoch: 026, Batch: 0500, LR: 0.01, Speed: 9304.34901 sample/s
+Training Loss: 1.76524, Training Acc: 0.37219
+--------------------------------------------------
+Mon Apr 27 23:40:06 2020 - Epoch: 026, Batch: 1000, LR: 0.01, Speed: 9561.86837 sample/s
+Training Loss: 1.76077, Training Acc: 0.37394
+--------------------------------------------------
+Mon Apr 27 23:40:07 2020 - Epoch: 026, Batch: 1500, LR: 0.01, Speed: 9589.06688 sample/s
+Training Loss: 1.76062, Training Acc: 0.37231
+--------------------------------------------------
+Mon Apr 27 23:40:07 2020 - Start Testing...
+Mon Apr 27 23:40:08 2020 - Epoch: 026
+Testing Loss: 1.70541, Testing Acc: 0.39390
+--------------------------------------------------
+Mon Apr 27 23:40:10 2020 - Epoch: 027, Batch: 0500, LR: 0.01, Speed: 9377.40495 sample/s
+Training Loss: 1.74959, Training Acc: 0.37719
+--------------------------------------------------
+Mon Apr 27 23:40:12 2020 - Epoch: 027, Batch: 1000, LR: 0.01, Speed: 9522.98746 sample/s
+Training Loss: 1.74782, Training Acc: 0.37625
+--------------------------------------------------
+Mon Apr 27 23:40:13 2020 - Epoch: 027, Batch: 1500, LR: 0.01, Speed: 9538.88958 sample/s
+Training Loss: 1.75187, Training Acc: 0.37200
+--------------------------------------------------
+Mon Apr 27 23:40:14 2020 - Start Testing...
+Mon Apr 27 23:40:15 2020 - Epoch: 027
+Testing Loss: 1.71104, Testing Acc: 0.38920
+--------------------------------------------------
+Mon Apr 27 23:40:16 2020 - Epoch: 028, Batch: 0500, LR: 0.01, Speed: 9375.88781 sample/s
+Training Loss: 1.74533, Training Acc: 0.37962
+--------------------------------------------------
+Mon Apr 27 23:40:18 2020 - Epoch: 028, Batch: 1000, LR: 0.01, Speed: 9497.88767 sample/s
+Training Loss: 1.74894, Training Acc: 0.37612
+--------------------------------------------------
+Mon Apr 27 23:40:20 2020 - Epoch: 028, Batch: 1500, LR: 0.01, Speed: 9317.43904 sample/s
+Training Loss: 1.75272, Training Acc: 0.37600
+--------------------------------------------------
+Mon Apr 27 23:40:20 2020 - Start Testing...
+Mon Apr 27 23:40:21 2020 - Epoch: 028
+Testing Loss: 1.70847, Testing Acc: 0.39370
+--------------------------------------------------
+Mon Apr 27 23:40:23 2020 - Epoch: 029, Batch: 0500, LR: 0.01, Speed: 9301.88832 sample/s
+Training Loss: 1.73395, Training Acc: 0.38219
+--------------------------------------------------
+Mon Apr 27 23:40:24 2020 - Epoch: 029, Batch: 1000, LR: 0.01, Speed: 9519.41719 sample/s
+Training Loss: 1.74369, Training Acc: 0.38125
+--------------------------------------------------
+Mon Apr 27 23:40:26 2020 - Epoch: 029, Batch: 1500, LR: 0.01, Speed: 9581.49311 sample/s
+Training Loss: 1.74145, Training Acc: 0.37894
+--------------------------------------------------
+Mon Apr 27 23:40:26 2020 - Start Testing...
+Mon Apr 27 23:40:27 2020 - Epoch: 029
+Testing Loss: 1.68514, Testing Acc: 0.40380
+--------------------------------------------------
+Mon Apr 27 23:40:29 2020 - Epoch: 030, Batch: 0500, LR: 0.01, Speed: 9302.67230 sample/s
+Training Loss: 1.73745, Training Acc: 0.37806
+--------------------------------------------------
+Mon Apr 27 23:40:31 2020 - Epoch: 030, Batch: 1000, LR: 0.01, Speed: 9555.82177 sample/s
+Training Loss: 1.74309, Training Acc: 0.37644
+--------------------------------------------------
+Mon Apr 27 23:40:32 2020 - Epoch: 030, Batch: 1500, LR: 0.01, Speed: 9631.31351 sample/s
+Training Loss: 1.73888, Training Acc: 0.37956
+--------------------------------------------------
+Mon Apr 27 23:40:33 2020 - Start Testing...
+Mon Apr 27 23:40:34 2020 - Epoch: 030
+Testing Loss: 1.71263, Testing Acc: 0.38950
+--------------------------------------------------
+Mon Apr 27 23:40:35 2020 - Epoch: 031, Batch: 0500, LR: 0.01, Speed: 9313.62178 sample/s
+Training Loss: 1.73734, Training Acc: 0.37869
+--------------------------------------------------
+Mon Apr 27 23:40:37 2020 - Epoch: 031, Batch: 1000, LR: 0.01, Speed: 9548.55718 sample/s
+Training Loss: 1.73996, Training Acc: 0.37825
+--------------------------------------------------
+Mon Apr 27 23:40:39 2020 - Epoch: 031, Batch: 1500, LR: 0.01, Speed: 9606.45285 sample/s
+Training Loss: 1.72441, Training Acc: 0.38481
+--------------------------------------------------
+Mon Apr 27 23:40:39 2020 - Start Testing...
+Mon Apr 27 23:40:40 2020 - Epoch: 031
+Testing Loss: 1.69587, Testing Acc: 0.39930
+--------------------------------------------------
+Mon Apr 27 23:40:42 2020 - Epoch: 032, Batch: 0500, LR: 0.01, Speed: 9326.14560 sample/s
+Training Loss: 1.71981, Training Acc: 0.38369
+--------------------------------------------------
+Mon Apr 27 23:40:43 2020 - Epoch: 032, Batch: 1000, LR: 0.01, Speed: 9407.01761 sample/s
+Training Loss: 1.73735, Training Acc: 0.37906
+--------------------------------------------------
+Mon Apr 27 23:40:45 2020 - Epoch: 032, Batch: 1500, LR: 0.01, Speed: 9130.59185 sample/s
+Training Loss: 1.72807, Training Acc: 0.38731
+--------------------------------------------------
+Mon Apr 27 23:40:45 2020 - Start Testing...
+Mon Apr 27 23:40:46 2020 - Epoch: 032
+Testing Loss: 1.69988, Testing Acc: 0.39630
+--------------------------------------------------
+Mon Apr 27 23:40:48 2020 - Epoch: 033, Batch: 0500, LR: 0.01, Speed: 9221.11568 sample/s
+Training Loss: 1.73384, Training Acc: 0.38119
+--------------------------------------------------
+Mon Apr 27 23:40:50 2020 - Epoch: 033, Batch: 1000, LR: 0.01, Speed: 9564.57896 sample/s
+Training Loss: 1.71797, Training Acc: 0.39144
+--------------------------------------------------
+Mon Apr 27 23:40:51 2020 - Epoch: 033, Batch: 1500, LR: 0.01, Speed: 9551.24663 sample/s
+Training Loss: 1.72775, Training Acc: 0.38419
+--------------------------------------------------
+Mon Apr 27 23:40:51 2020 - Start Testing...
+Mon Apr 27 23:40:52 2020 - Epoch: 033
+Testing Loss: 1.68257, Testing Acc: 0.40280
+--------------------------------------------------
+Mon Apr 27 23:40:54 2020 - Epoch: 034, Batch: 0500, LR: 0.01, Speed: 9285.10458 sample/s
+Training Loss: 1.71673, Training Acc: 0.38875
+--------------------------------------------------
+Mon Apr 27 23:40:56 2020 - Epoch: 034, Batch: 1000, LR: 0.01, Speed: 9535.11635 sample/s
+Training Loss: 1.71949, Training Acc: 0.38762
+--------------------------------------------------
+Mon Apr 27 23:40:58 2020 - Epoch: 034, Batch: 1500, LR: 0.01, Speed: 9535.46725 sample/s
+Training Loss: 1.71321, Training Acc: 0.38575
+--------------------------------------------------
+Mon Apr 27 23:40:58 2020 - Start Testing...
+Mon Apr 27 23:40:59 2020 - Epoch: 034
+Testing Loss: 1.69167, Testing Acc: 0.39270
+--------------------------------------------------
+Mon Apr 27 23:41:00 2020 - Epoch: 035, Batch: 0500, LR: 0.01, Speed: 9267.34584 sample/s
+Training Loss: 1.72637, Training Acc: 0.38687
+--------------------------------------------------
+Mon Apr 27 23:41:02 2020 - Epoch: 035, Batch: 1000, LR: 0.01, Speed: 9564.30497 sample/s
+Training Loss: 1.70821, Training Acc: 0.39437
+--------------------------------------------------
+Mon Apr 27 23:41:04 2020 - Epoch: 035, Batch: 1500, LR: 0.01, Speed: 9585.68377 sample/s
+Training Loss: 1.71635, Training Acc: 0.38862
+--------------------------------------------------
+Mon Apr 27 23:41:04 2020 - Start Testing...
+Mon Apr 27 23:41:05 2020 - Epoch: 035
+Testing Loss: 1.66766, Testing Acc: 0.40730
+--------------------------------------------------
+Mon Apr 27 23:41:07 2020 - Epoch: 036, Batch: 0500, LR: 0.01, Speed: 9324.19414 sample/s
+Training Loss: 1.71228, Training Acc: 0.38956
+--------------------------------------------------
+Mon Apr 27 23:41:08 2020 - Epoch: 036, Batch: 1000, LR: 0.01, Speed: 9340.14847 sample/s
+Training Loss: 1.71205, Training Acc: 0.38819
+--------------------------------------------------
+Mon Apr 27 23:41:10 2020 - Epoch: 036, Batch: 1500, LR: 0.01, Speed: 9550.37399 sample/s
+Training Loss: 1.71525, Training Acc: 0.39062
+--------------------------------------------------
+Mon Apr 27 23:41:10 2020 - Start Testing...
+Mon Apr 27 23:41:11 2020 - Epoch: 036
+Testing Loss: 1.67146, Testing Acc: 0.40780
+--------------------------------------------------
+Mon Apr 27 23:41:13 2020 - Epoch: 037, Batch: 0500, LR: 0.01, Speed: 9212.71659 sample/s
+Training Loss: 1.70675, Training Acc: 0.39387
+--------------------------------------------------
+Mon Apr 27 23:41:15 2020 - Epoch: 037, Batch: 1000, LR: 0.01, Speed: 9423.53342 sample/s
+Training Loss: 1.71193, Training Acc: 0.39012
+--------------------------------------------------
+Mon Apr 27 23:41:16 2020 - Epoch: 037, Batch: 1500, LR: 0.01, Speed: 9594.98279 sample/s
+Training Loss: 1.70561, Training Acc: 0.38706
+--------------------------------------------------
+Mon Apr 27 23:41:17 2020 - Start Testing...
+Mon Apr 27 23:41:18 2020 - Epoch: 037
+Testing Loss: 1.66952, Testing Acc: 0.40710
+--------------------------------------------------
+Mon Apr 27 23:41:19 2020 - Epoch: 038, Batch: 0500, LR: 0.01, Speed: 9353.90270 sample/s
+Training Loss: 1.71202, Training Acc: 0.38944
+--------------------------------------------------
+Mon Apr 27 23:41:21 2020 - Epoch: 038, Batch: 1000, LR: 0.01, Speed: 9565.48692 sample/s
+Training Loss: 1.70450, Training Acc: 0.39425
+--------------------------------------------------
+Mon Apr 27 23:41:23 2020 - Epoch: 038, Batch: 1500, LR: 0.01, Speed: 9588.18731 sample/s
+Training Loss: 1.69117, Training Acc: 0.39644
+--------------------------------------------------
+Mon Apr 27 23:41:23 2020 - Start Testing...
+Mon Apr 27 23:41:24 2020 - Epoch: 038
+Testing Loss: 1.66826, Testing Acc: 0.40340
+--------------------------------------------------
+Mon Apr 27 23:41:26 2020 - Epoch: 039, Batch: 0500, LR: 0.01, Speed: 9267.11549 sample/s
+Training Loss: 1.69443, Training Acc: 0.39094
+--------------------------------------------------
+Mon Apr 27 23:41:27 2020 - Epoch: 039, Batch: 1000, LR: 0.01, Speed: 9511.65910 sample/s
+Training Loss: 1.69823, Training Acc: 0.39269
+--------------------------------------------------
+Mon Apr 27 23:41:29 2020 - Epoch: 039, Batch: 1500, LR: 0.01, Speed: 9584.77607 sample/s
+Training Loss: 1.69476, Training Acc: 0.39231
+--------------------------------------------------
+Mon Apr 27 23:41:29 2020 - Start Testing...
+Mon Apr 27 23:41:30 2020 - Epoch: 039
+Testing Loss: 1.67318, Testing Acc: 0.40420
+--------------------------------------------------
+Mon Apr 27 23:41:32 2020 - Epoch: 040, Batch: 0500, LR: 0.01, Speed: 9286.49481 sample/s
+Training Loss: 1.69088, Training Acc: 0.39644
+--------------------------------------------------
+Mon Apr 27 23:41:34 2020 - Epoch: 040, Batch: 1000, LR: 0.01, Speed: 9579.50172 sample/s
+Training Loss: 1.70634, Training Acc: 0.39512
+--------------------------------------------------
+Mon Apr 27 23:41:35 2020 - Epoch: 040, Batch: 1500, LR: 0.01, Speed: 9552.78025 sample/s
+Training Loss: 1.69384, Training Acc: 0.39300
+--------------------------------------------------
+Mon Apr 27 23:41:35 2020 - Start Testing...
+Mon Apr 27 23:41:36 2020 - Epoch: 040
+Testing Loss: 1.65491, Testing Acc: 0.40450
+--------------------------------------------------
+Mon Apr 27 23:41:38 2020 - Epoch: 041, Batch: 0500, LR: 0.01, Speed: 9321.12478 sample/s
+Training Loss: 1.69313, Training Acc: 0.39262
+--------------------------------------------------
+Mon Apr 27 23:41:40 2020 - Epoch: 041, Batch: 1000, LR: 0.01, Speed: 9560.27599 sample/s
+Training Loss: 1.69461, Training Acc: 0.39362
+--------------------------------------------------
+Mon Apr 27 23:41:41 2020 - Epoch: 041, Batch: 1500, LR: 0.01, Speed: 9571.04342 sample/s
+Training Loss: 1.69832, Training Acc: 0.39400
+--------------------------------------------------
+Mon Apr 27 23:41:42 2020 - Start Testing...
+Mon Apr 27 23:41:43 2020 - Epoch: 041
+Testing Loss: 1.66513, Testing Acc: 0.40660
+--------------------------------------------------
+Mon Apr 27 23:41:44 2020 - Epoch: 042, Batch: 0500, LR: 0.01, Speed: 9134.83992 sample/s
+Training Loss: 1.68525, Training Acc: 0.39525
+--------------------------------------------------
+Mon Apr 27 23:41:46 2020 - Epoch: 042, Batch: 1000, LR: 0.01, Speed: 9559.34451 sample/s
+Training Loss: 1.68005, Training Acc: 0.39375
+--------------------------------------------------
+Mon Apr 27 23:41:48 2020 - Epoch: 042, Batch: 1500, LR: 0.01, Speed: 9643.47480 sample/s
+Training Loss: 1.69694, Training Acc: 0.39462
+--------------------------------------------------
+Mon Apr 27 23:41:48 2020 - Start Testing...
+Mon Apr 27 23:41:49 2020 - Epoch: 042
+Testing Loss: 1.66973, Testing Acc: 0.39910
+--------------------------------------------------
+Mon Apr 27 23:41:51 2020 - Epoch: 043, Batch: 0500, LR: 0.01, Speed: 9333.27158 sample/s
+Training Loss: 1.68647, Training Acc: 0.39250
+--------------------------------------------------
+Mon Apr 27 23:41:52 2020 - Epoch: 043, Batch: 1000, LR: 0.01, Speed: 9540.67694 sample/s
+Training Loss: 1.68288, Training Acc: 0.39937
+--------------------------------------------------
+Mon Apr 27 23:41:54 2020 - Epoch: 043, Batch: 1500, LR: 0.01, Speed: 9510.23973 sample/s
+Training Loss: 1.69452, Training Acc: 0.39281
+--------------------------------------------------
+Mon Apr 27 23:41:54 2020 - Start Testing...
+Mon Apr 27 23:41:55 2020 - Epoch: 043
+Testing Loss: 1.64887, Testing Acc: 0.41270
+--------------------------------------------------
+Mon Apr 27 23:41:57 2020 - Epoch: 044, Batch: 0500, LR: 0.01, Speed: 9362.29355 sample/s
+Training Loss: 1.68668, Training Acc: 0.39887
+--------------------------------------------------
+Mon Apr 27 23:41:59 2020 - Epoch: 044, Batch: 1000, LR: 0.01, Speed: 9573.48333 sample/s
+Training Loss: 1.69722, Training Acc: 0.39331
+--------------------------------------------------
+Mon Apr 27 23:42:00 2020 - Epoch: 044, Batch: 1500, LR: 0.01, Speed: 9477.11107 sample/s
+Training Loss: 1.67798, Training Acc: 0.39656
+--------------------------------------------------
+Mon Apr 27 23:42:00 2020 - Start Testing...
+Mon Apr 27 23:42:01 2020 - Epoch: 044
+Testing Loss: 1.66320, Testing Acc: 0.40310
+--------------------------------------------------
+Mon Apr 27 23:42:03 2020 - Epoch: 045, Batch: 0500, LR: 0.01, Speed: 9277.80437 sample/s
+Training Loss: 1.67967, Training Acc: 0.40012
+--------------------------------------------------
+Mon Apr 27 23:42:05 2020 - Epoch: 045, Batch: 1000, LR: 0.01, Speed: 9502.26516 sample/s
+Training Loss: 1.68833, Training Acc: 0.39306
+--------------------------------------------------
+Mon Apr 27 23:42:07 2020 - Epoch: 045, Batch: 1500, LR: 0.01, Speed: 9560.48710 sample/s
+Training Loss: 1.67529, Training Acc: 0.40356
+--------------------------------------------------
+Mon Apr 27 23:42:07 2020 - Start Testing...
+Mon Apr 27 23:42:08 2020 - Epoch: 045
+Testing Loss: 1.65920, Testing Acc: 0.41000
+--------------------------------------------------
+Mon Apr 27 23:42:09 2020 - Epoch: 046, Batch: 0500, LR: 0.01, Speed: 9340.44227 sample/s
+Training Loss: 1.67710, Training Acc: 0.40200
+--------------------------------------------------
+Mon Apr 27 23:42:11 2020 - Epoch: 046, Batch: 1000, LR: 0.01, Speed: 9584.56800 sample/s
+Training Loss: 1.66859, Training Acc: 0.40306
+--------------------------------------------------
+Mon Apr 27 23:42:13 2020 - Epoch: 046, Batch: 1500, LR: 0.01, Speed: 9650.66948 sample/s
+Training Loss: 1.68087, Training Acc: 0.39756
+--------------------------------------------------
+Mon Apr 27 23:42:13 2020 - Start Testing...
+Mon Apr 27 23:42:14 2020 - Epoch: 046
+Testing Loss: 1.65585, Testing Acc: 0.41290
+--------------------------------------------------
+Mon Apr 27 23:42:16 2020 - Epoch: 047, Batch: 0500, LR: 0.01, Speed: 9341.35238 sample/s
+Training Loss: 1.68834, Training Acc: 0.39794
+--------------------------------------------------
+Mon Apr 27 23:42:17 2020 - Epoch: 047, Batch: 1000, LR: 0.01, Speed: 9489.21321 sample/s
+Training Loss: 1.67048, Training Acc: 0.40056
+--------------------------------------------------
+Mon Apr 27 23:42:19 2020 - Epoch: 047, Batch: 1500, LR: 0.01, Speed: 9577.65467 sample/s
+Training Loss: 1.67282, Training Acc: 0.40287
+--------------------------------------------------
+Mon Apr 27 23:42:19 2020 - Start Testing...
+Mon Apr 27 23:42:20 2020 - Epoch: 047
+Testing Loss: 1.64780, Testing Acc: 0.40920
+--------------------------------------------------
+Mon Apr 27 23:42:22 2020 - Epoch: 048, Batch: 0500, LR: 0.01, Speed: 9318.31362 sample/s
+Training Loss: 1.67525, Training Acc: 0.40112
+--------------------------------------------------
+Mon Apr 27 23:42:24 2020 - Epoch: 048, Batch: 1000, LR: 0.01, Speed: 9455.72298 sample/s
+Training Loss: 1.67300, Training Acc: 0.40162
+--------------------------------------------------
+Mon Apr 27 23:42:25 2020 - Epoch: 048, Batch: 1500, LR: 0.01, Speed: 9502.72264 sample/s
+Training Loss: 1.67064, Training Acc: 0.40075
+--------------------------------------------------
+Mon Apr 27 23:42:26 2020 - Start Testing...
+Mon Apr 27 23:42:27 2020 - Epoch: 048
+Testing Loss: 1.65984, Testing Acc: 0.40270
+--------------------------------------------------
+Mon Apr 27 23:42:28 2020 - Epoch: 049, Batch: 0500, LR: 0.01, Speed: 9328.24958 sample/s
+Training Loss: 1.65872, Training Acc: 0.41125
+--------------------------------------------------
+Mon Apr 27 23:42:30 2020 - Epoch: 049, Batch: 1000, LR: 0.01, Speed: 9567.75349 sample/s
+Training Loss: 1.68511, Training Acc: 0.39825
+--------------------------------------------------
+Mon Apr 27 23:42:32 2020 - Epoch: 049, Batch: 1500, LR: 0.01, Speed: 9557.18536 sample/s
+Training Loss: 1.66633, Training Acc: 0.40450
+--------------------------------------------------
+Mon Apr 27 23:42:32 2020 - Start Testing...
+Mon Apr 27 23:42:33 2020 - Epoch: 049
+Testing Loss: 1.65112, Testing Acc: 0.41330
+--------------------------------------------------
+Mon Apr 27 23:42:35 2020 - Epoch: 050, Batch: 0500, LR: 0.01, Speed: 9337.16083 sample/s
+Training Loss: 1.65297, Training Acc: 0.41175
+--------------------------------------------------
+Mon Apr 27 23:42:36 2020 - Epoch: 050, Batch: 1000, LR: 0.01, Speed: 9534.57582 sample/s
+Training Loss: 1.68094, Training Acc: 0.39475
+--------------------------------------------------
+Mon Apr 27 23:42:38 2020 - Epoch: 050, Batch: 1500, LR: 0.01, Speed: 9568.13545 sample/s
+Training Loss: 1.68438, Training Acc: 0.40187
+--------------------------------------------------
+Mon Apr 27 23:42:38 2020 - Start Testing...
+Mon Apr 27 23:42:39 2020 - Epoch: 050
+Testing Loss: 1.64717, Testing Acc: 0.41440
+--------------------------------------------------
+Mon Apr 27 23:42:41 2020 - Epoch: 051, Batch: 0500, LR: 0.01, Speed: 9414.52794 sample/s
+Training Loss: 1.66539, Training Acc: 0.40731
+--------------------------------------------------
+Mon Apr 27 23:42:43 2020 - Epoch: 051, Batch: 1000, LR: 0.01, Speed: 9532.08665 sample/s
+Training Loss: 1.67632, Training Acc: 0.40344
+--------------------------------------------------
+Mon Apr 27 23:42:44 2020 - Epoch: 051, Batch: 1500, LR: 0.01, Speed: 9429.09708 sample/s
+Training Loss: 1.65814, Training Acc: 0.40656
+--------------------------------------------------
+Mon Apr 27 23:42:44 2020 - Start Testing...
+Mon Apr 27 23:42:45 2020 - Epoch: 051
+Testing Loss: 1.63386, Testing Acc: 0.41540
+--------------------------------------------------
+Mon Apr 27 23:42:47 2020 - Epoch: 052, Batch: 0500, LR: 0.01, Speed: 9356.82278 sample/s
+Training Loss: 1.66868, Training Acc: 0.40450
+--------------------------------------------------
+Mon Apr 27 23:42:49 2020 - Epoch: 052, Batch: 1000, LR: 0.01, Speed: 9533.06428 sample/s
+Training Loss: 1.66259, Training Acc: 0.40431
+--------------------------------------------------
+Mon Apr 27 23:42:51 2020 - Epoch: 052, Batch: 1500, LR: 0.01, Speed: 9627.47096 sample/s
+Training Loss: 1.66199, Training Acc: 0.40594
+--------------------------------------------------
+Mon Apr 27 23:42:51 2020 - Start Testing...
+Mon Apr 27 23:42:52 2020 - Epoch: 052
+Testing Loss: 1.65395, Testing Acc: 0.41030
+--------------------------------------------------
+Mon Apr 27 23:42:53 2020 - Epoch: 053, Batch: 0500, LR: 0.01, Speed: 9354.66286 sample/s
+Training Loss: 1.65279, Training Acc: 0.41012
+--------------------------------------------------
+Mon Apr 27 23:42:55 2020 - Epoch: 053, Batch: 1000, LR: 0.01, Speed: 9555.63944 sample/s
+Training Loss: 1.66558, Training Acc: 0.40431
+--------------------------------------------------
+Mon Apr 27 23:42:57 2020 - Epoch: 053, Batch: 1500, LR: 0.01, Speed: 9628.02070 sample/s
+Training Loss: 1.65786, Training Acc: 0.41162
+--------------------------------------------------
+Mon Apr 27 23:42:57 2020 - Start Testing...
+Mon Apr 27 23:42:58 2020 - Epoch: 053
+Testing Loss: 1.64360, Testing Acc: 0.41320
+--------------------------------------------------
+Mon Apr 27 23:43:00 2020 - Epoch: 054, Batch: 0500, LR: 0.01, Speed: 9333.39230 sample/s
+Training Loss: 1.66134, Training Acc: 0.40706
+--------------------------------------------------
+Mon Apr 27 23:43:01 2020 - Epoch: 054, Batch: 1000, LR: 0.01, Speed: 9571.26182 sample/s
+Training Loss: 1.65535, Training Acc: 0.40856
+--------------------------------------------------
+Mon Apr 27 23:43:03 2020 - Epoch: 054, Batch: 1500, LR: 0.01, Speed: 9547.53561 sample/s
+Training Loss: 1.65889, Training Acc: 0.40456
+--------------------------------------------------
+Mon Apr 27 23:43:03 2020 - Start Testing...
+Mon Apr 27 23:43:04 2020 - Epoch: 054
+Testing Loss: 1.64703, Testing Acc: 0.41610
+--------------------------------------------------
+Mon Apr 27 23:43:06 2020 - Epoch: 055, Batch: 0500, LR: 0.01, Speed: 9349.61782 sample/s
+Training Loss: 1.64949, Training Acc: 0.41031
+--------------------------------------------------
+Mon Apr 27 23:43:08 2020 - Epoch: 055, Batch: 1000, LR: 0.01, Speed: 9533.53557 sample/s
+Training Loss: 1.65813, Training Acc: 0.40900
+--------------------------------------------------
+Mon Apr 27 23:43:09 2020 - Epoch: 055, Batch: 1500, LR: 0.01, Speed: 9550.22720 sample/s
+Training Loss: 1.66418, Training Acc: 0.40262
+--------------------------------------------------
+Mon Apr 27 23:43:10 2020 - Start Testing...
+Mon Apr 27 23:43:10 2020 - Epoch: 055
+Testing Loss: 1.62727, Testing Acc: 0.41630
+--------------------------------------------------
+Mon Apr 27 23:43:12 2020 - Epoch: 056, Batch: 0500, LR: 0.01, Speed: 9380.70425 sample/s
+Training Loss: 1.64330, Training Acc: 0.41412
+--------------------------------------------------
+Mon Apr 27 23:43:14 2020 - Epoch: 056, Batch: 1000, LR: 0.01, Speed: 9324.06978 sample/s
+Training Loss: 1.66236, Training Acc: 0.41006
+--------------------------------------------------
+Mon Apr 27 23:43:16 2020 - Epoch: 056, Batch: 1500, LR: 0.01, Speed: 9567.59253 sample/s
+Training Loss: 1.65218, Training Acc: 0.41006
+--------------------------------------------------
+Mon Apr 27 23:43:16 2020 - Start Testing...
+Mon Apr 27 23:43:17 2020 - Epoch: 056
+Testing Loss: 1.64327, Testing Acc: 0.41710
+--------------------------------------------------
+Mon Apr 27 23:43:18 2020 - Epoch: 057, Batch: 0500, LR: 0.01, Speed: 9362.10155 sample/s
+Training Loss: 1.65148, Training Acc: 0.40731
+--------------------------------------------------
+Mon Apr 27 23:43:20 2020 - Epoch: 057, Batch: 1000, LR: 0.01, Speed: 9467.76918 sample/s
+Training Loss: 1.64626, Training Acc: 0.41406
+--------------------------------------------------
+Mon Apr 27 23:43:22 2020 - Epoch: 057, Batch: 1500, LR: 0.01, Speed: 9603.82980 sample/s
+Training Loss: 1.65631, Training Acc: 0.40594
+--------------------------------------------------
+Mon Apr 27 23:43:22 2020 - Start Testing...
+Mon Apr 27 23:43:23 2020 - Epoch: 057
+Testing Loss: 1.64362, Testing Acc: 0.41330
+--------------------------------------------------
+Mon Apr 27 23:43:25 2020 - Epoch: 058, Batch: 0500, LR: 0.01, Speed: 9314.13626 sample/s
+Training Loss: 1.63940, Training Acc: 0.41687
+--------------------------------------------------
+Mon Apr 27 23:43:26 2020 - Epoch: 058, Batch: 1000, LR: 0.01, Speed: 9584.33940 sample/s
+Training Loss: 1.65731, Training Acc: 0.41000
+--------------------------------------------------
+Mon Apr 27 23:43:28 2020 - Epoch: 058, Batch: 1500, LR: 0.01, Speed: 9637.24292 sample/s
+Training Loss: 1.64701, Training Acc: 0.41231
+--------------------------------------------------
+Mon Apr 27 23:43:28 2020 - Start Testing...
+Mon Apr 27 23:43:29 2020 - Epoch: 058
+Testing Loss: 1.63258, Testing Acc: 0.41840
+--------------------------------------------------
+Mon Apr 27 23:43:31 2020 - Epoch: 059, Batch: 0500, LR: 0.01, Speed: 9276.99123 sample/s
+Training Loss: 1.64945, Training Acc: 0.41037
+--------------------------------------------------
+Mon Apr 27 23:43:33 2020 - Epoch: 059, Batch: 1000, LR: 0.01, Speed: 9569.98974 sample/s
+Training Loss: 1.63786, Training Acc: 0.41387
+--------------------------------------------------
+Mon Apr 27 23:43:34 2020 - Epoch: 059, Batch: 1500, LR: 0.01, Speed: 9585.80973 sample/s
+Training Loss: 1.65260, Training Acc: 0.41412
+--------------------------------------------------
+Mon Apr 27 23:43:35 2020 - Start Testing...
+Mon Apr 27 23:43:36 2020 - Epoch: 059
+Testing Loss: 1.62657, Testing Acc: 0.41860
+--------------------------------------------------
+Mon Apr 27 23:43:37 2020 - Epoch: 060, Batch: 0500, LR: 0.01, Speed: 9400.83201 sample/s
+Training Loss: 1.65276, Training Acc: 0.41369
+--------------------------------------------------
+Mon Apr 27 23:43:39 2020 - Epoch: 060, Batch: 1000, LR: 0.01, Speed: 9583.37996 sample/s
+Training Loss: 1.64557, Training Acc: 0.40950
+--------------------------------------------------
+Mon Apr 27 23:43:41 2020 - Epoch: 060, Batch: 1500, LR: 0.01, Speed: 9563.94376 sample/s
+Training Loss: 1.64831, Training Acc: 0.40975
+--------------------------------------------------
+Mon Apr 27 23:43:41 2020 - Start Testing...
+Mon Apr 27 23:43:42 2020 - Epoch: 060
+Testing Loss: 1.62541, Testing Acc: 0.41910
+--------------------------------------------------
+Mon Apr 27 23:43:44 2020 - Epoch: 061, Batch: 0500, LR: 0.01, Speed: 9116.57569 sample/s
+Training Loss: 1.64735, Training Acc: 0.41062
+--------------------------------------------------
+Mon Apr 27 23:43:45 2020 - Epoch: 061, Batch: 1000, LR: 0.01, Speed: 9481.05417 sample/s
+Training Loss: 1.63996, Training Acc: 0.41187
+--------------------------------------------------
+Mon Apr 27 23:43:47 2020 - Epoch: 061, Batch: 1500, LR: 0.01, Speed: 9617.30393 sample/s
+Training Loss: 1.64201, Training Acc: 0.41181
+--------------------------------------------------
+Mon Apr 27 23:43:47 2020 - Start Testing...
+Mon Apr 27 23:43:48 2020 - Epoch: 061
+Testing Loss: 1.62849, Testing Acc: 0.41130
+--------------------------------------------------
+Mon Apr 27 23:43:50 2020 - Epoch: 062, Batch: 0500, LR: 0.01, Speed: 9378.00906 sample/s
+Training Loss: 1.64126, Training Acc: 0.41319
+--------------------------------------------------
+Mon Apr 27 23:43:51 2020 - Epoch: 062, Batch: 1000, LR: 0.01, Speed: 9557.58553 sample/s
+Training Loss: 1.63642, Training Acc: 0.41381
+--------------------------------------------------
+Mon Apr 27 23:43:53 2020 - Epoch: 062, Batch: 1500, LR: 0.01, Speed: 9529.07916 sample/s
+Training Loss: 1.64544, Training Acc: 0.41075
+--------------------------------------------------
+Mon Apr 27 23:43:53 2020 - Start Testing...
+Mon Apr 27 23:43:54 2020 - Epoch: 062
+Testing Loss: 1.61964, Testing Acc: 0.42670
+--------------------------------------------------
+Mon Apr 27 23:43:56 2020 - Epoch: 063, Batch: 0500, LR: 0.01, Speed: 9356.51230 sample/s
+Training Loss: 1.63321, Training Acc: 0.41825
+--------------------------------------------------
+Mon Apr 27 23:43:58 2020 - Epoch: 063, Batch: 1000, LR: 0.01, Speed: 9575.58016 sample/s
+Training Loss: 1.64146, Training Acc: 0.40950
+--------------------------------------------------
+Mon Apr 27 23:43:59 2020 - Epoch: 063, Batch: 1500, LR: 0.01, Speed: 9615.19292 sample/s
+Training Loss: 1.65339, Training Acc: 0.40775
+--------------------------------------------------
+Mon Apr 27 23:44:00 2020 - Start Testing...
+Mon Apr 27 23:44:01 2020 - Epoch: 063
+Testing Loss: 1.63734, Testing Acc: 0.41040
+--------------------------------------------------
+Mon Apr 27 23:44:02 2020 - Epoch: 064, Batch: 0500, LR: 0.01, Speed: 9281.09812 sample/s
+Training Loss: 1.63739, Training Acc: 0.41619
+--------------------------------------------------
+Mon Apr 27 23:44:04 2020 - Epoch: 064, Batch: 1000, LR: 0.01, Speed: 9523.87267 sample/s
+Training Loss: 1.64490, Training Acc: 0.40781
+--------------------------------------------------
+Mon Apr 27 23:44:06 2020 - Epoch: 064, Batch: 1500, LR: 0.01, Speed: 9596.71026 sample/s
+Training Loss: 1.63377, Training Acc: 0.41456
+--------------------------------------------------
+Mon Apr 27 23:44:06 2020 - Start Testing...
+Mon Apr 27 23:44:07 2020 - Epoch: 064
+Testing Loss: 1.62349, Testing Acc: 0.42090
+--------------------------------------------------
+Mon Apr 27 23:44:08 2020 - Epoch: 065, Batch: 0500, LR: 0.01, Speed: 9334.28936 sample/s
+Training Loss: 1.63103, Training Acc: 0.42281
+--------------------------------------------------
+Mon Apr 27 23:44:10 2020 - Epoch: 065, Batch: 1000, LR: 0.01, Speed: 9547.05750 sample/s
+Training Loss: 1.63156, Training Acc: 0.41562
+--------------------------------------------------
+Mon Apr 27 23:44:12 2020 - Epoch: 065, Batch: 1500, LR: 0.01, Speed: 9566.35687 sample/s
+Training Loss: 1.64325, Training Acc: 0.40981
+--------------------------------------------------
+Mon Apr 27 23:44:12 2020 - Start Testing...
+Mon Apr 27 23:44:13 2020 - Epoch: 065
+Testing Loss: 1.64126, Testing Acc: 0.41590
+--------------------------------------------------
+Mon Apr 27 23:44:15 2020 - Epoch: 066, Batch: 0500, LR: 0.01, Speed: 9242.44341 sample/s
+Training Loss: 1.63007, Training Acc: 0.41906
+--------------------------------------------------
+Mon Apr 27 23:44:16 2020 - Epoch: 066, Batch: 1000, LR: 0.01, Speed: 9558.68141 sample/s
+Training Loss: 1.63492, Training Acc: 0.41387
+--------------------------------------------------
+Mon Apr 27 23:44:18 2020 - Epoch: 066, Batch: 1500, LR: 0.01, Speed: 9565.41330 sample/s
+Training Loss: 1.63436, Training Acc: 0.41887
+--------------------------------------------------
+Mon Apr 27 23:44:18 2020 - Start Testing...
+Mon Apr 27 23:44:19 2020 - Epoch: 066
+Testing Loss: 1.62262, Testing Acc: 0.42010
+--------------------------------------------------
+Mon Apr 27 23:44:21 2020 - Epoch: 067, Batch: 0500, LR: 0.01, Speed: 9351.74282 sample/s
+Training Loss: 1.63280, Training Acc: 0.41656
+--------------------------------------------------
+Mon Apr 27 23:44:23 2020 - Epoch: 067, Batch: 1000, LR: 0.01, Speed: 9565.81961 sample/s
+Training Loss: 1.63677, Training Acc: 0.41681
+--------------------------------------------------
+Mon Apr 27 23:44:24 2020 - Epoch: 067, Batch: 1500, LR: 0.01, Speed: 9590.42216 sample/s
+Training Loss: 1.63153, Training Acc: 0.42237
+--------------------------------------------------
+Mon Apr 27 23:44:25 2020 - Start Testing...
+Mon Apr 27 23:44:26 2020 - Epoch: 067
+Testing Loss: 1.62626, Testing Acc: 0.41740
+--------------------------------------------------
+Mon Apr 27 23:44:27 2020 - Epoch: 068, Batch: 0500, LR: 0.01, Speed: 9419.52695 sample/s
+Training Loss: 1.63387, Training Acc: 0.41800
+--------------------------------------------------
+Mon Apr 27 23:44:29 2020 - Epoch: 068, Batch: 1000, LR: 0.01, Speed: 9521.27021 sample/s
+Training Loss: 1.62561, Training Acc: 0.41987
+--------------------------------------------------
+Mon Apr 27 23:44:31 2020 - Epoch: 068, Batch: 1500, LR: 0.01, Speed: 9567.26108 sample/s
+Training Loss: 1.61934, Training Acc: 0.42281
+--------------------------------------------------
+Mon Apr 27 23:44:31 2020 - Start Testing...
+Mon Apr 27 23:44:32 2020 - Epoch: 068
+Testing Loss: 1.61328, Testing Acc: 0.42320
+--------------------------------------------------
+Mon Apr 27 23:44:34 2020 - Epoch: 069, Batch: 0500, LR: 0.01, Speed: 9266.25177 sample/s
+Training Loss: 1.62695, Training Acc: 0.42194
+--------------------------------------------------
+Mon Apr 27 23:44:35 2020 - Epoch: 069, Batch: 1000, LR: 0.01, Speed: 9326.16763 sample/s
+Training Loss: 1.62069, Training Acc: 0.42006
+--------------------------------------------------
+Mon Apr 27 23:44:37 2020 - Epoch: 069, Batch: 1500, LR: 0.01, Speed: 9515.16149 sample/s
+Training Loss: 1.63113, Training Acc: 0.41412
+--------------------------------------------------
+Mon Apr 27 23:44:37 2020 - Start Testing...
+Mon Apr 27 23:44:38 2020 - Epoch: 069
+Testing Loss: 1.61730, Testing Acc: 0.42180
+--------------------------------------------------
+Mon Apr 27 23:44:40 2020 - Epoch: 070, Batch: 0500, LR: 0.01, Speed: 9338.56149 sample/s
+Training Loss: 1.62805, Training Acc: 0.42031
+--------------------------------------------------
+Mon Apr 27 23:44:41 2020 - Epoch: 070, Batch: 1000, LR: 0.01, Speed: 9574.72629 sample/s
+Training Loss: 1.62446, Training Acc: 0.41969
+--------------------------------------------------
+Mon Apr 27 23:44:43 2020 - Epoch: 070, Batch: 1500, LR: 0.01, Speed: 9461.68355 sample/s
+Training Loss: 1.63850, Training Acc: 0.41425
+--------------------------------------------------
+Mon Apr 27 23:44:43 2020 - Start Testing...
+Mon Apr 27 23:44:44 2020 - Epoch: 070
+Testing Loss: 1.61370, Testing Acc: 0.42440
+--------------------------------------------------
+Mon Apr 27 23:44:46 2020 - Epoch: 071, Batch: 0500, LR: 0.01, Speed: 9364.26099 sample/s
+Training Loss: 1.61883, Training Acc: 0.42525
+--------------------------------------------------
+Mon Apr 27 23:44:48 2020 - Epoch: 071, Batch: 1000, LR: 0.01, Speed: 9535.56481 sample/s
+Training Loss: 1.63005, Training Acc: 0.41650
+--------------------------------------------------
+Mon Apr 27 23:44:49 2020 - Epoch: 071, Batch: 1500, LR: 0.01, Speed: 9575.17848 sample/s
+Training Loss: 1.62761, Training Acc: 0.42000
+--------------------------------------------------
+Mon Apr 27 23:44:50 2020 - Start Testing...
+Mon Apr 27 23:44:51 2020 - Epoch: 071
+Testing Loss: 1.61370, Testing Acc: 0.42250
+--------------------------------------------------
+Mon Apr 27 23:44:52 2020 - Epoch: 072, Batch: 0500, LR: 0.01, Speed: 9356.53317 sample/s
+Training Loss: 1.62009, Training Acc: 0.42181
+--------------------------------------------------
+Mon Apr 27 23:44:54 2020 - Epoch: 072, Batch: 1000, LR: 0.01, Speed: 9576.80727 sample/s
+Training Loss: 1.62883, Training Acc: 0.42019
+--------------------------------------------------
+Mon Apr 27 23:44:56 2020 - Epoch: 072, Batch: 1500, LR: 0.01, Speed: 9464.22551 sample/s
+Training Loss: 1.63025, Training Acc: 0.42075
+--------------------------------------------------
+Mon Apr 27 23:44:56 2020 - Start Testing...
+Mon Apr 27 23:44:57 2020 - Epoch: 072
+Testing Loss: 1.61261, Testing Acc: 0.42200
+--------------------------------------------------
+Mon Apr 27 23:44:59 2020 - Epoch: 073, Batch: 0500, LR: 0.01, Speed: 9245.47008 sample/s
+Training Loss: 1.61429, Training Acc: 0.42400
+--------------------------------------------------
+Mon Apr 27 23:45:00 2020 - Epoch: 073, Batch: 1000, LR: 0.01, Speed: 9564.22455 sample/s
+Training Loss: 1.61145, Training Acc: 0.42731
+--------------------------------------------------
+Mon Apr 27 23:45:02 2020 - Epoch: 073, Batch: 1500, LR: 0.01, Speed: 9562.18855 sample/s
+Training Loss: 1.63981, Training Acc: 0.41837
+--------------------------------------------------
+Mon Apr 27 23:45:02 2020 - Start Testing...
+Mon Apr 27 23:45:03 2020 - Epoch: 073
+Testing Loss: 1.62490, Testing Acc: 0.41640
+--------------------------------------------------
+Mon Apr 27 23:45:05 2020 - Epoch: 074, Batch: 0500, LR: 0.01, Speed: 9318.03674 sample/s
+Training Loss: 1.62918, Training Acc: 0.42056
+--------------------------------------------------
+Mon Apr 27 23:45:07 2020 - Epoch: 074, Batch: 1000, LR: 0.01, Speed: 9575.86163 sample/s
+Training Loss: 1.61571, Training Acc: 0.42644
+--------------------------------------------------
+Mon Apr 27 23:45:08 2020 - Epoch: 074, Batch: 1500, LR: 0.01, Speed: 9572.77321 sample/s
+Training Loss: 1.61582, Training Acc: 0.41537
+--------------------------------------------------
+Mon Apr 27 23:45:09 2020 - Start Testing...
+Mon Apr 27 23:45:10 2020 - Epoch: 074
+Testing Loss: 1.62271, Testing Acc: 0.41650
+--------------------------------------------------
+Mon Apr 27 23:45:11 2020 - Epoch: 075, Batch: 0500, LR: 0.01, Speed: 9340.57357 sample/s
+Training Loss: 1.61654, Training Acc: 0.42087
+--------------------------------------------------
+Mon Apr 27 23:45:13 2020 - Epoch: 075, Batch: 1000, LR: 0.01, Speed: 9498.86368 sample/s
+Training Loss: 1.61676, Training Acc: 0.42069
+--------------------------------------------------
+Mon Apr 27 23:45:15 2020 - Epoch: 075, Batch: 1500, LR: 0.01, Speed: 9352.79852 sample/s
+Training Loss: 1.62242, Training Acc: 0.42650
+--------------------------------------------------
+Mon Apr 27 23:45:15 2020 - Start Testing...
+Mon Apr 27 23:45:16 2020 - Epoch: 075
+Testing Loss: 1.61650, Testing Acc: 0.41900
+--------------------------------------------------
+Mon Apr 27 23:45:18 2020 - Epoch: 076, Batch: 0500, LR: 0.01, Speed: 9295.75905 sample/s
+Training Loss: 1.61276, Training Acc: 0.41987
+--------------------------------------------------
+Mon Apr 27 23:45:19 2020 - Epoch: 076, Batch: 1000, LR: 0.01, Speed: 9507.35781 sample/s
+Training Loss: 1.62019, Training Acc: 0.41800
+--------------------------------------------------
+Mon Apr 27 23:45:21 2020 - Epoch: 076, Batch: 1500, LR: 0.01, Speed: 9608.11568 sample/s
+Training Loss: 1.62209, Training Acc: 0.41887
+--------------------------------------------------
+Mon Apr 27 23:45:21 2020 - Start Testing...
+Mon Apr 27 23:45:22 2020 - Epoch: 076
+Testing Loss: 1.62601, Testing Acc: 0.42050
+--------------------------------------------------
+Mon Apr 27 23:45:24 2020 - Epoch: 077, Batch: 0500, LR: 0.01, Speed: 9350.54535 sample/s
+Training Loss: 1.61798, Training Acc: 0.42244
+--------------------------------------------------
+Mon Apr 27 23:45:25 2020 - Epoch: 077, Batch: 1000, LR: 0.01, Speed: 9548.20259 sample/s
+Training Loss: 1.61654, Training Acc: 0.42581
+--------------------------------------------------
+Mon Apr 27 23:45:27 2020 - Epoch: 077, Batch: 1500, LR: 0.01, Speed: 9598.87495 sample/s
+Training Loss: 1.62650, Training Acc: 0.42275
+--------------------------------------------------
+Mon Apr 27 23:45:27 2020 - Start Testing...
+Mon Apr 27 23:45:28 2020 - Epoch: 077
+Testing Loss: 1.61574, Testing Acc: 0.43030
+--------------------------------------------------
+Mon Apr 27 23:45:30 2020 - Epoch: 078, Batch: 0500, LR: 0.01, Speed: 9334.35557 sample/s
+Training Loss: 1.61165, Training Acc: 0.42587
+--------------------------------------------------
+Mon Apr 27 23:45:32 2020 - Epoch: 078, Batch: 1000, LR: 0.01, Speed: 9552.57493 sample/s
+Training Loss: 1.61690, Training Acc: 0.42244
+--------------------------------------------------
+Mon Apr 27 23:45:33 2020 - Epoch: 078, Batch: 1500, LR: 0.01, Speed: 9589.15868 sample/s
+Training Loss: 1.61481, Training Acc: 0.42256
+--------------------------------------------------
+Mon Apr 27 23:45:34 2020 - Start Testing...
+Mon Apr 27 23:45:35 2020 - Epoch: 078
+Testing Loss: 1.60958, Testing Acc: 0.42640
+--------------------------------------------------
+Mon Apr 27 23:45:36 2020 - Epoch: 079, Batch: 0500, LR: 0.01, Speed: 9364.58897 sample/s
+Training Loss: 1.60295, Training Acc: 0.43156
+--------------------------------------------------
+Mon Apr 27 23:45:38 2020 - Epoch: 079, Batch: 1000, LR: 0.01, Speed: 9572.62983 sample/s
+Training Loss: 1.61491, Training Acc: 0.42125
+--------------------------------------------------
+Mon Apr 27 23:45:40 2020 - Epoch: 079, Batch: 1500, LR: 0.01, Speed: 9627.92953 sample/s
+Training Loss: 1.61693, Training Acc: 0.42494
+--------------------------------------------------
+Mon Apr 27 23:45:40 2020 - Start Testing...
+Mon Apr 27 23:45:41 2020 - Epoch: 079
+Testing Loss: 1.63150, Testing Acc: 0.41680
+--------------------------------------------------
+Mon Apr 27 23:45:43 2020 - Epoch: 080, Batch: 0500, LR: 0.01, Speed: 9303.31583 sample/s
+Training Loss: 1.60674, Training Acc: 0.42881
+--------------------------------------------------
+Mon Apr 27 23:45:44 2020 - Epoch: 080, Batch: 1000, LR: 0.01, Speed: 9322.78743 sample/s
+Training Loss: 1.60771, Training Acc: 0.42512
+--------------------------------------------------
+Mon Apr 27 23:45:46 2020 - Epoch: 080, Batch: 1500, LR: 0.01, Speed: 9561.13818 sample/s
+Training Loss: 1.62092, Training Acc: 0.41894
+--------------------------------------------------
+Mon Apr 27 23:45:46 2020 - Start Testing...
+Mon Apr 27 23:45:47 2020 - Epoch: 080
+Testing Loss: 1.61862, Testing Acc: 0.41880
+--------------------------------------------------
+Mon Apr 27 23:45:49 2020 - Epoch: 081, Batch: 0500, LR: 0.01, Speed: 9313.61015 sample/s
+Training Loss: 1.62535, Training Acc: 0.42244
+--------------------------------------------------
+Mon Apr 27 23:45:51 2020 - Epoch: 081, Batch: 1000, LR: 0.01, Speed: 9500.45988 sample/s
+Training Loss: 1.61384, Training Acc: 0.42419
+--------------------------------------------------
+Mon Apr 27 23:45:52 2020 - Epoch: 081, Batch: 1500, LR: 0.01, Speed: 9604.04834 sample/s
+Training Loss: 1.59792, Training Acc: 0.42919
+--------------------------------------------------
+Mon Apr 27 23:45:52 2020 - Start Testing...
+Mon Apr 27 23:45:53 2020 - Epoch: 081
+Testing Loss: 1.61046, Testing Acc: 0.42280
+--------------------------------------------------
+Mon Apr 27 23:45:55 2020 - Epoch: 082, Batch: 0500, LR: 0.01, Speed: 9330.51796 sample/s
+Training Loss: 1.60131, Training Acc: 0.42531
+--------------------------------------------------
+Mon Apr 27 23:45:57 2020 - Epoch: 082, Batch: 1000, LR: 0.01, Speed: 9521.72412 sample/s
+Training Loss: 1.60066, Training Acc: 0.42987
+--------------------------------------------------
+Mon Apr 27 23:45:59 2020 - Epoch: 082, Batch: 1500, LR: 0.01, Speed: 9420.05451 sample/s
+Training Loss: 1.62150, Training Acc: 0.42087
+--------------------------------------------------
+Mon Apr 27 23:45:59 2020 - Start Testing...
+Mon Apr 27 23:46:00 2020 - Epoch: 082
+Testing Loss: 1.60882, Testing Acc: 0.42540
+--------------------------------------------------
+Mon Apr 27 23:46:02 2020 - Epoch: 083, Batch: 0500, LR: 0.01, Speed: 8650.26110 sample/s
+Training Loss: 1.61279, Training Acc: 0.42500
+--------------------------------------------------
+Mon Apr 27 23:46:03 2020 - Epoch: 083, Batch: 1000, LR: 0.01, Speed: 8614.41884 sample/s
+Training Loss: 1.59643, Training Acc: 0.42987
+--------------------------------------------------
+Mon Apr 27 23:46:05 2020 - Epoch: 083, Batch: 1500, LR: 0.01, Speed: 8545.59376 sample/s
+Training Loss: 1.61727, Training Acc: 0.41969
+--------------------------------------------------
+Mon Apr 27 23:46:06 2020 - Start Testing...
+Mon Apr 27 23:46:07 2020 - Epoch: 083
+Testing Loss: 1.60699, Testing Acc: 0.42600
+--------------------------------------------------
+Mon Apr 27 23:46:09 2020 - Epoch: 084, Batch: 0500, LR: 0.01, Speed: 8206.12130 sample/s
+Training Loss: 1.60361, Training Acc: 0.42750
+--------------------------------------------------
+Mon Apr 27 23:46:11 2020 - Epoch: 084, Batch: 1000, LR: 0.01, Speed: 8471.27387 sample/s
+Training Loss: 1.60562, Training Acc: 0.43294
+--------------------------------------------------
+Mon Apr 27 23:46:12 2020 - Epoch: 084, Batch: 1500, LR: 0.01, Speed: 8545.28799 sample/s
+Training Loss: 1.60361, Training Acc: 0.42619
+--------------------------------------------------
+Mon Apr 27 23:46:13 2020 - Start Testing...
+Mon Apr 27 23:46:14 2020 - Epoch: 084
+Testing Loss: 1.61098, Testing Acc: 0.42660
+--------------------------------------------------
+Mon Apr 27 23:46:16 2020 - Epoch: 085, Batch: 0500, LR: 0.01, Speed: 8212.03488 sample/s
+Training Loss: 1.60265, Training Acc: 0.42600
+--------------------------------------------------
+Mon Apr 27 23:46:18 2020 - Epoch: 085, Batch: 1000, LR: 0.01, Speed: 8362.60240 sample/s
+Training Loss: 1.60684, Training Acc: 0.42612
+--------------------------------------------------
+Mon Apr 27 23:46:20 2020 - Epoch: 085, Batch: 1500, LR: 0.01, Speed: 8205.14506 sample/s
+Training Loss: 1.60555, Training Acc: 0.42762
+--------------------------------------------------
+Mon Apr 27 23:46:20 2020 - Start Testing...
+Mon Apr 27 23:46:21 2020 - Epoch: 085
+Testing Loss: 1.61292, Testing Acc: 0.42490
+--------------------------------------------------
+Mon Apr 27 23:46:23 2020 - Epoch: 086, Batch: 0500, LR: 0.01, Speed: 7962.91646 sample/s
+Training Loss: 1.62111, Training Acc: 0.42275
+--------------------------------------------------
+Mon Apr 27 23:46:25 2020 - Epoch: 086, Batch: 1000, LR: 0.01, Speed: 8156.10795 sample/s
+Training Loss: 1.59849, Training Acc: 0.42681
+--------------------------------------------------
+Mon Apr 27 23:46:27 2020 - Epoch: 086, Batch: 1500, LR: 0.01, Speed: 8167.31163 sample/s
+Training Loss: 1.60521, Training Acc: 0.42931
+--------------------------------------------------
+Mon Apr 27 23:46:27 2020 - Start Testing...
+Mon Apr 27 23:46:28 2020 - Epoch: 086
+Testing Loss: 1.60142, Testing Acc: 0.42430
+--------------------------------------------------
+Mon Apr 27 23:46:30 2020 - Epoch: 087, Batch: 0500, LR: 0.01, Speed: 8249.19962 sample/s
+Training Loss: 1.60412, Training Acc: 0.42531
+--------------------------------------------------
+Mon Apr 27 23:46:32 2020 - Epoch: 087, Batch: 1000, LR: 0.01, Speed: 8515.21326 sample/s
+Training Loss: 1.60081, Training Acc: 0.42850
+--------------------------------------------------
+Mon Apr 27 23:46:34 2020 - Epoch: 087, Batch: 1500, LR: 0.01, Speed: 8484.83236 sample/s
+Training Loss: 1.59951, Training Acc: 0.42825
+--------------------------------------------------
+Mon Apr 27 23:46:34 2020 - Start Testing...
+Mon Apr 27 23:46:35 2020 - Epoch: 087
+Testing Loss: 1.63305, Testing Acc: 0.41530
+--------------------------------------------------
+Mon Apr 27 23:46:37 2020 - Epoch: 088, Batch: 0500, LR: 0.01, Speed: 8233.43452 sample/s
+Training Loss: 1.60437, Training Acc: 0.42806
+--------------------------------------------------
+Mon Apr 27 23:46:39 2020 - Epoch: 088, Batch: 1000, LR: 0.01, Speed: 8454.46937 sample/s
+Training Loss: 1.59870, Training Acc: 0.42750
+--------------------------------------------------
+Mon Apr 27 23:46:41 2020 - Epoch: 088, Batch: 1500, LR: 0.01, Speed: 8321.22790 sample/s
+Training Loss: 1.60359, Training Acc: 0.42875
+--------------------------------------------------
+Mon Apr 27 23:46:41 2020 - Start Testing...
+Mon Apr 27 23:46:43 2020 - Epoch: 088
+Testing Loss: 1.61316, Testing Acc: 0.42250
+--------------------------------------------------
+Mon Apr 27 23:46:45 2020 - Epoch: 089, Batch: 0500, LR: 0.01, Speed: 7741.91518 sample/s
+Training Loss: 1.59656, Training Acc: 0.42981
+--------------------------------------------------
+Mon Apr 27 23:46:47 2020 - Epoch: 089, Batch: 1000, LR: 0.01, Speed: 8082.94731 sample/s
+Training Loss: 1.60144, Training Acc: 0.42344
+--------------------------------------------------
+Mon Apr 27 23:46:49 2020 - Epoch: 089, Batch: 1500, LR: 0.01, Speed: 8135.56745 sample/s
+Training Loss: 1.61175, Training Acc: 0.42775
+--------------------------------------------------
+Mon Apr 27 23:46:49 2020 - Start Testing...
+Mon Apr 27 23:46:50 2020 - Epoch: 089
+Testing Loss: 1.62587, Testing Acc: 0.41730
+--------------------------------------------------
+Mon Apr 27 23:46:52 2020 - Epoch: 090, Batch: 0500, LR: 0.01, Speed: 8042.26196 sample/s
+Training Loss: 1.59958, Training Acc: 0.42700
+--------------------------------------------------
+Mon Apr 27 23:46:54 2020 - Epoch: 090, Batch: 1000, LR: 0.01, Speed: 8469.86150 sample/s
+Training Loss: 1.59531, Training Acc: 0.43125
+--------------------------------------------------
+Mon Apr 27 23:46:56 2020 - Epoch: 090, Batch: 1500, LR: 0.01, Speed: 8485.95677 sample/s
+Training Loss: 1.60526, Training Acc: 0.42900
+--------------------------------------------------
+Mon Apr 27 23:46:56 2020 - Start Testing...
+Mon Apr 27 23:46:57 2020 - Epoch: 090
+Testing Loss: 1.59646, Testing Acc: 0.42930
+--------------------------------------------------
+Mon Apr 27 23:46:59 2020 - Epoch: 091, Batch: 0500, LR: 0.01, Speed: 8267.96394 sample/s
+Training Loss: 1.59192, Training Acc: 0.43356
+--------------------------------------------------
+Mon Apr 27 23:47:01 2020 - Epoch: 091, Batch: 1000, LR: 0.01, Speed: 8425.81112 sample/s
+Training Loss: 1.59674, Training Acc: 0.42906
+--------------------------------------------------
+Mon Apr 27 23:47:03 2020 - Epoch: 091, Batch: 1500, LR: 0.01, Speed: 8530.38513 sample/s
+Training Loss: 1.60690, Training Acc: 0.42525
+--------------------------------------------------
+Mon Apr 27 23:47:03 2020 - Start Testing...
+Mon Apr 27 23:47:04 2020 - Epoch: 091
+Testing Loss: 1.61458, Testing Acc: 0.42070
+--------------------------------------------------
+Mon Apr 27 23:47:06 2020 - Epoch: 092, Batch: 0500, LR: 0.01, Speed: 8043.46686 sample/s
+Training Loss: 1.59050, Training Acc: 0.43319
+--------------------------------------------------
+Mon Apr 27 23:47:08 2020 - Epoch: 092, Batch: 1000, LR: 0.01, Speed: 8094.99055 sample/s
+Training Loss: 1.60819, Training Acc: 0.42331
+--------------------------------------------------
+Mon Apr 27 23:47:10 2020 - Epoch: 092, Batch: 1500, LR: 0.01, Speed: 8100.68339 sample/s
+Training Loss: 1.58741, Training Acc: 0.43306
+--------------------------------------------------
+Mon Apr 27 23:47:10 2020 - Start Testing...
+Mon Apr 27 23:47:12 2020 - Epoch: 092
+Testing Loss: 1.61224, Testing Acc: 0.42000
+--------------------------------------------------
+Mon Apr 27 23:47:14 2020 - Epoch: 093, Batch: 0500, LR: 0.01, Speed: 7805.17144 sample/s
+Training Loss: 1.60274, Training Acc: 0.43200
+--------------------------------------------------
+Mon Apr 27 23:47:16 2020 - Epoch: 093, Batch: 1000, LR: 0.01, Speed: 8096.35098 sample/s
+Training Loss: 1.58758, Training Acc: 0.44025
+--------------------------------------------------
+Mon Apr 27 23:47:18 2020 - Epoch: 093, Batch: 1500, LR: 0.01, Speed: 8085.65177 sample/s
+Training Loss: 1.60586, Training Acc: 0.42606
+--------------------------------------------------
+Mon Apr 27 23:47:18 2020 - Start Testing...
+Mon Apr 27 23:47:19 2020 - Epoch: 093
+Testing Loss: 1.61944, Testing Acc: 0.41990
+--------------------------------------------------
+Mon Apr 27 23:47:21 2020 - Epoch: 094, Batch: 0500, LR: 0.01, Speed: 8291.16505 sample/s
+Training Loss: 1.59338, Training Acc: 0.43075
+--------------------------------------------------
+Mon Apr 27 23:47:23 2020 - Epoch: 094, Batch: 1000, LR: 0.01, Speed: 8478.95551 sample/s
+Training Loss: 1.58879, Training Acc: 0.43269
+--------------------------------------------------
+Mon Apr 27 23:47:25 2020 - Epoch: 094, Batch: 1500, LR: 0.01, Speed: 8392.50422 sample/s
+Training Loss: 1.60179, Training Acc: 0.42600
+--------------------------------------------------
+Mon Apr 27 23:47:25 2020 - Start Testing...
+Mon Apr 27 23:47:26 2020 - Epoch: 094
+Testing Loss: 1.60513, Testing Acc: 0.42840
+--------------------------------------------------
+Mon Apr 27 23:47:28 2020 - Epoch: 095, Batch: 0500, LR: 0.01, Speed: 8275.78627 sample/s
+Training Loss: 1.60191, Training Acc: 0.42481
+--------------------------------------------------
+Mon Apr 27 23:47:30 2020 - Epoch: 095, Batch: 1000, LR: 0.01, Speed: 8494.96281 sample/s
+Training Loss: 1.59009, Training Acc: 0.42881
+--------------------------------------------------
+Mon Apr 27 23:47:32 2020 - Epoch: 095, Batch: 1500, LR: 0.01, Speed: 8447.26581 sample/s
+Training Loss: 1.58307, Training Acc: 0.43044
+--------------------------------------------------
+Mon Apr 27 23:47:32 2020 - Start Testing...
+Mon Apr 27 23:47:33 2020 - Epoch: 095
+Testing Loss: 1.62044, Testing Acc: 0.41820
+--------------------------------------------------
+Mon Apr 27 23:47:35 2020 - Epoch: 096, Batch: 0500, LR: 0.01, Speed: 8185.48319 sample/s
+Training Loss: 1.58822, Training Acc: 0.43056
+--------------------------------------------------
+Mon Apr 27 23:47:37 2020 - Epoch: 096, Batch: 1000, LR: 0.01, Speed: 8475.01609 sample/s
+Training Loss: 1.59167, Training Acc: 0.43012
+--------------------------------------------------
+Mon Apr 27 23:47:39 2020 - Epoch: 096, Batch: 1500, LR: 0.01, Speed: 8435.23694 sample/s
+Training Loss: 1.59506, Training Acc: 0.42637
+--------------------------------------------------
+Mon Apr 27 23:47:39 2020 - Start Testing...
+Mon Apr 27 23:47:40 2020 - Epoch: 096
+Testing Loss: 1.60650, Testing Acc: 0.42600
+--------------------------------------------------
+Mon Apr 27 23:47:42 2020 - Epoch: 097, Batch: 0500, LR: 0.01, Speed: 8203.41188 sample/s
+Training Loss: 1.58901, Training Acc: 0.43350
+--------------------------------------------------
+Mon Apr 27 23:47:44 2020 - Epoch: 097, Batch: 1000, LR: 0.01, Speed: 8014.58629 sample/s
+Training Loss: 1.57804, Training Acc: 0.43244
+--------------------------------------------------
+Mon Apr 27 23:47:46 2020 - Epoch: 097, Batch: 1500, LR: 0.01, Speed: 8150.39538 sample/s
+Training Loss: 1.59835, Training Acc: 0.42812
+--------------------------------------------------
+Mon Apr 27 23:47:46 2020 - Start Testing...
+Mon Apr 27 23:47:47 2020 - Epoch: 097
+Testing Loss: 1.60427, Testing Acc: 0.42610
+--------------------------------------------------
+Mon Apr 27 23:47:49 2020 - Epoch: 098, Batch: 0500, LR: 0.01, Speed: 7948.74248 sample/s
+Training Loss: 1.59283, Training Acc: 0.42781
+--------------------------------------------------
+Mon Apr 27 23:47:51 2020 - Epoch: 098, Batch: 1000, LR: 0.01, Speed: 8122.82903 sample/s
+Training Loss: 1.59246, Training Acc: 0.42962
+--------------------------------------------------
+Mon Apr 27 23:47:53 2020 - Epoch: 098, Batch: 1500, LR: 0.01, Speed: 8149.77675 sample/s
+Training Loss: 1.58270, Training Acc: 0.43675
+--------------------------------------------------
+Mon Apr 27 23:47:54 2020 - Start Testing...
+Mon Apr 27 23:47:55 2020 - Epoch: 098
+Testing Loss: 1.60119, Testing Acc: 0.43060
+--------------------------------------------------
+Mon Apr 27 23:47:57 2020 - Epoch: 099, Batch: 0500, LR: 0.01, Speed: 8282.79938 sample/s
+Training Loss: 1.58929, Training Acc: 0.43512
+--------------------------------------------------
+Mon Apr 27 23:47:59 2020 - Epoch: 099, Batch: 1000, LR: 0.01, Speed: 8489.50041 sample/s
+Training Loss: 1.58658, Training Acc: 0.43494
+--------------------------------------------------
+Mon Apr 27 23:48:00 2020 - Epoch: 099, Batch: 1500, LR: 0.01, Speed: 8426.87126 sample/s
+Training Loss: 1.59086, Training Acc: 0.43062
+--------------------------------------------------
+Mon Apr 27 23:48:01 2020 - Start Testing...
+Mon Apr 27 23:48:02 2020 - Epoch: 099
+Testing Loss: 1.62931, Testing Acc: 0.41080
+--------------------------------------------------
+Mon Apr 27 23:48:04 2020 - Epoch: 100, Batch: 0500, LR: 0.01, Speed: 8270.40530 sample/s
+Training Loss: 1.58574, Training Acc: 0.42831
+--------------------------------------------------
+Mon Apr 27 23:48:06 2020 - Epoch: 100, Batch: 1000, LR: 0.01, Speed: 8453.89426 sample/s
+Training Loss: 1.58726, Training Acc: 0.43231
+--------------------------------------------------
+Mon Apr 27 23:48:08 2020 - Epoch: 100, Batch: 1500, LR: 0.01, Speed: 8185.81368 sample/s
+Training Loss: 1.59629, Training Acc: 0.43131
+--------------------------------------------------
+Mon Apr 27 23:48:08 2020 - Start Testing...
+Mon Apr 27 23:48:09 2020 - Epoch: 100
+Testing Loss: 1.59809, Testing Acc: 0.42760
+--------------------------------------------------
+Mon Apr 27 23:48:09 2020 - Finish Training
